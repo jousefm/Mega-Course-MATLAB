@@ -21,7 +21,7 @@ MATLAB - From Zero to Hero
 <table width="100%">
     <tr>
         <td width="50%">
-        <a href="https://github.com/jousefm/MATLAB-Mega-Course/blob/master/Cheat%20Sheet/MatlabCheatsheet.pdf"><img alt="MATLAB Cheat Sheet" src="Images/CheatSheet.PNG"/></a>
+        <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/CheatSheet/MatlabCheatsheet.pdf"><img alt="MATLAB Cheat Sheet" src="Images/CheatSheet.PNG"/></a>
         <td width="50%"><H2>Matlab - Cheat Sheet</H2>
             <!--- <b><a href="tensorflow-planespotting">tensorflow-planespotting</a></b><br/> -->
             Feel free to print out this cheat sheet to  use it in your classes and share it with your friends to spread the love for MATLAB & simulation. </td>
