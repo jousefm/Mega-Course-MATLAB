@@ -37,7 +37,7 @@ Introduction
         <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Introduction Video" src="Images/Video1.png"/></td>
         <td width="50%">
             <div align="center">
-                     <a href="https://www.youtube.com/user/TheEngiineer/">video</a> |
+                     <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Slides/1.%20Introduction.pdf">slides</a> |
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Homework/Homework1.pdf">homework </a> |
                      <a href="https://www.engineered-mind.com/">code (coming soon)</a><br/><br/></div>
@@ -47,7 +47,25 @@ Introduction
 </table>
 <br/>
 
-<!--- <tr>
+MATLAB Basics
+================
+
+<table width="100%">
+    <tr>
+        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Basics Video" src="Images/Video2.png"/></td>
+        <td width="50%">
+            <div align="center">
+                     <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
+                     <a href="https://www.youtube.com/user/TheEngiineer/">slides (coming soon)</a> |
+                     <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon) </a> |
+                     <a href="https://www.engineered-mind.com/">code (coming soon)</a><br/><br/></div>
+                     <p>The first video covers MATLAB's intelligent calculator feature, basic arithmetic and how to work with code in your beginnings to make sure that commenting code becomes a habit! We will have a look 
+                     at MATLAB's data types, special values like the irrational number Pi and the Eulers number e, trigonometric functions and many more interesting features of the MATLAB environment. Duration: X min</p></td>
+    </tr>
+</table>
+<br/>
+
+<tr>
         <td width="50%"><div align="center">
                                           <a href="https://youtu.be/vq2nnJ4g6N0?t=76m">video</a> |
                                           <a href="https://docs.google.com/presentation/d/18MiZndRCOxB7g-TcCl2EZOElS5udVaCuxnGznLnmOlE/pub?slide=id.g1245051c73_0_25">slides</a> |
@@ -56,7 +74,7 @@ Introduction
                                           Code sample: MNIST handwritten digit recognition with 99.5% accuracy. Duration: 25 min</p></td>
         <td width="50%"><img alt="The superpower: batch normalization" src="tensorflow-rl-pong/images/flds2.png"/></td>
     </tr>
-    <tr>
+ <!---   <tr>
         <td border=0 width="50%"><img alt="Tensorflow, deep learning and recurrent neural networks, without a PhD" src="tensorflow-rl-pong/images/flds3.png"/></td>
         <td border=0 width="50%">
             <div align="center">
