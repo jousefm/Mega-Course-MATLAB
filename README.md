@@ -44,31 +44,13 @@ Introduction
                      <p>The first video covers MATLAB's intelligent calculator feature, basic arithmetic and how to work with code in your beginnings to make sure that commenting code becomes a habit! We will have a look 
                      at MATLAB's data types, special values like the irrational number Pi and the Eulers number e, trigonometric functions and many more interesting features of the MATLAB environment. Duration: X min</p></td>
     </tr>
-</table>
-<br/>
-
-MATLAB Basics
-================
-
-<table width="100%">
-    <tr>
-        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Basics Video" src="Images/Video2.png"/></td>
-        <td width="50%">
-            <div align="center">
-                     <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
-                     <a href="https://www.youtube.com/user/TheEngiineer/">slides (coming soon)</a> |
-                     <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon) </a> |
-                     <a href="https://www.engineered-mind.com/">code (coming soon)</a><br/><br/></div>
-                     <p>The first video covers MATLAB's intelligent calculator feature, basic arithmetic and how to work with code in your beginnings to make sure that commenting code becomes a habit! We will have a look 
-                     at MATLAB's data types, special values like the irrational number Pi and the Eulers number e, trigonometric functions and many more interesting features of the MATLAB environment. Duration: X min</p></td>
-    </tr>
     <tr>
         <td width="50%"><div align="center">
-                                          <a href="">video</a> |
-                                          <a href="">slides</a> |
-                                          <a href="">code</a><br/><br/></div>
+                                          <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
+                                          <a href="https://www.youtube.com/user/TheEngiineer/">slides (coming soon)</a> |
+                                          <a href="https://www.engineered-mind.com/">code (coming soon)</a><br/><br/></div>
                                           <p>TEST</p></td>
-        <td width="50%"><img alt="The superpower: batch normalization" src="tensorflow-rl-pong/images/flds2.png"/></td>
+        <td width="50%"><img alt="MATLAB Basics Video" src="Images/Video2.png"/></td>
     </tr>
     </table>
     <br/>
