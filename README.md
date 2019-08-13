@@ -49,7 +49,8 @@ Introduction
                                           <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
                                           <a href="https://www.youtube.com/user/TheEngiineer/">slides (coming soon)</a> |
                                           <a href="https://www.engineered-mind.com/">code (coming soon)</a><br/><br/></div>
-                                          <p>TEST</p></td>
+                                          <p>In the second video we are dealing with MATLAB as an intelligent calculator, its basic syntax & the Three Magic C's! We will learn how to comment/uncomment existing code and save your
+                                          precious work in a so called script. Additionally we will deal with variables and what datatypes MATLAB offers</p></td>
         <td width="50%"><img alt="MATLAB Basics Video" src="Images/Video2.png"/></td>
     </tr>
     </table>
