@@ -10,7 +10,6 @@ MATLAB - From Zero to Hero
     <tr>
         <td width="50%">
             <H2>Matlab - Introduction</H2>
-            <!--- <b><a href="tensorflow-planespotting">tensorflow-planespotting</a></b><br/> -->
             In this repository you will find all the homework exercises and other relevant material. A mega course for those
             who want to learn programming with MATLAB, with plenty of examples, theoretical concepts, tricks and best practices.
         <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="My YouTube Channel" src="Images/ThumbnailEngineering.PNG"/></a></td>
@@ -23,7 +22,6 @@ MATLAB - From Zero to Hero
         <td width="50%">
         <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/CheatSheet/MatlabCheatsheet.pdf"><img alt="MATLAB Cheat Sheet" src="Images/CheatSheet.PNG"/></a>
         <td width="50%"><H2>Matlab - Cheat Sheet</H2>
-            <!--- <b><a href="tensorflow-planespotting">tensorflow-planespotting</a></b><br/> -->
             Feel free to print out this cheat sheet to  use it in your classes and share it with your friends to spread the love for MATLAB & simulation. </td>
     </tr>
 </table>
