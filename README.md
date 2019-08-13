@@ -62,18 +62,16 @@ MATLAB Basics
                      <p>The first video covers MATLAB's intelligent calculator feature, basic arithmetic and how to work with code in your beginnings to make sure that commenting code becomes a habit! We will have a look 
                      at MATLAB's data types, special values like the irrational number Pi and the Eulers number e, trigonometric functions and many more interesting features of the MATLAB environment. Duration: X min</p></td>
     </tr>
-</table>
-<br/>
-
-<tr>
+    <tr>
         <td width="50%"><div align="center">
-                                          <a href="https://youtu.be/vq2nnJ4g6N0?t=76m">video</a> |
-                                          <a href="https://docs.google.com/presentation/d/18MiZndRCOxB7g-TcCl2EZOElS5udVaCuxnGznLnmOlE/pub?slide=id.g1245051c73_0_25">slides</a> |
-                                          <a href="tensorflow-mnist-tutorial/README_BATCHNORM.md">code</a><br/><br/></div>
-                                          <p>What is batch normalisation, how to use it appropriately and how to see if it is working or not.
-                                          Code sample: MNIST handwritten digit recognition with 99.5% accuracy. Duration: 25 min</p></td>
+                                          <a href="">video</a> |
+                                          <a href="">slides</a> |
+                                          <a href="">code</a><br/><br/></div>
+                                          <p>TEST</p></td>
         <td width="50%"><img alt="The superpower: batch normalization" src="tensorflow-rl-pong/images/flds2.png"/></td>
     </tr>
+    </table>
+    <br/>
  <!---   <tr>
         <td border=0 width="50%"><img alt="Tensorflow, deep learning and recurrent neural networks, without a PhD" src="tensorflow-rl-pong/images/flds3.png"/></td>
         <td border=0 width="50%">
