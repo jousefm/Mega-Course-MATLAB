@@ -27,7 +27,7 @@ MATLAB - From Zero to Hero
 </table>
 <br/>
 
-Introduction
+All Episodes
 ================
 
 <table width="100%">
