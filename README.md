@@ -38,7 +38,7 @@ All Episodes
                      <a href="https://www.youtube.com/watch?v=KAKkrgCBlBw">video </a> |
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Slides/1.%20Introduction.pdf">slides</a>
                      <p>The first video is a short introduction to MATLAB and its history. We will have a look on how to create a MathWorks account, how to install MATLAB and how to use all the 
-                     resources from this course. Duration: X minutes</p></td>
+                     resources from this course. Duration: 15 minutes</p></td>
     </tr>
     <tr>
         <td width="50%"><div align="center">
