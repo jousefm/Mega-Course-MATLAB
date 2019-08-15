@@ -42,11 +42,9 @@ All Episodes
     </tr>
     <tr>
         <td width="50%"><div align="center">
-                                          <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
-                                          <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Homework/Homework1.pdf">homework</a> |
-                                          <a href="https://www.engineered-mind.com/">code (coming soon)</a><br/><br/></div>
+                                          <a href="https://www.youtube.com/watch?v=QhtFpSu-QRI">video</a>
                                           <p>In this video we will have a look at MATLAB's graphical user interface (GUI), the workspace and several other options that the interface offers to us. We will talk a little bit about the Help functionalities
-                                          as well as the documentation of MATLAB. Duration: X minutes</p></td>
+                                          as well as the documentation of MATLAB. Duration: 12 minutes</p></td>
         <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Basics Video" src="Images/Video2.png"/></td>
     </tr>
         <tr>
