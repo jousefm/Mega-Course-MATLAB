@@ -51,12 +51,17 @@ All Episodes
         <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Introduction Video" src="Images/Video3.png"/></td>
         <td width="50%">
             <div align="center">
-                     <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
-                     <a href="https://www.youtube.com/user/TheEngiineer/">slides (coming soon)</a> |
+                     <a href="https://www.youtube.com/watch?v=adRli4J9egI">video</a> |
                      <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon)</a> |
-                     <a href="https://www.engineered-mind.com/">code (coming soon)</a><br/><br/></div>
+                     <a href="https://www.engineered-mind.com/">code</a><br/><br/></div>
                      <p>In the third video we are dealing with MATLAB as an intelligent calculator, its basic syntax & the Three Magic C's! We will learn how to comment/uncomment existing code and save your
-                            precious work in a so called script. Additionally we will deal with variables and what datatypes MATLAB offers. Duration: X minutes</p></td>
+                            precious work in a so called script. Additionally we will briefly talk about the datatypes our variables have. Duration: 17 minutes</p></td>
+    </tr>
+    <tr>
+        <td width="50%"><div align="center">
+                                          <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a>
+                                          <p>In this video we will compare MATLAB with its free counterpart GNU Octave and have a look at the differences but also the things these might tools have in common. Duration: X minutes</p></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=QhtFpSu-QRI"><img alt="MATLAB Basics Video" src="Images/Video2.png"/></td>
     </tr>
     </table>
     <br/>
