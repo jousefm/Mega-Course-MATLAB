@@ -52,7 +52,7 @@ All Episodes
         <td width="50%">
             <div align="center">
                      <a href="https://www.youtube.com/watch?v=adRli4J9egI">video</a> |
-                     <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon)</a> |
+                     <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Homework/Homework2.pdf">homework</a> |
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/ThirdVideo.m">code</a><br/><br/></div>
                      <p>In the third video we are dealing with MATLAB as an intelligent calculator, its basic syntax & the Three Magic C's! We will learn how to comment/uncomment existing code and save your
                             precious work in a so called script. Additionally we will briefly talk about the datatypes our variables have. Duration: 17 minutes</p></td>
