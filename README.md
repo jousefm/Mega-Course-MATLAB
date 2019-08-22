@@ -46,10 +46,10 @@ All Episodes
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Homework/Homework1.pdf">homework</a>
                                           <p>In this video we will have a look at MATLAB's graphical user interface (GUI), the workspace and several other options that the interface offers to us. We will talk a little bit about the Help functionalities
                                           as well as the documentation of MATLAB. Duration: 12 minutes</p></td>
-        <td width="50%"><a href="https://www.youtube.com/watch?v=QhtFpSu-QRI"><img alt="MATLAB Basics Video" src="Images/Video2.png"/></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=QhtFpSu-QRI"><img alt="MATLAB Doc" src="Images/Video2.png"/></td>
     </tr>
         <tr>
-        <td width="50%"><a href="https://www.youtube.com/watch?v=adRli4J9egI"><img alt="MATLAB Introduction Video" src="Images/Video3.png"/></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=adRli4J9egI"><img alt="MATLAB Basic Arithmetic" src="Images/Video3.png"/></td>
         <td width="50%">
             <div align="center">
                      <a href="https://www.youtube.com/watch?v=adRli4J9egI">video</a> |
@@ -67,7 +67,7 @@ All Episodes
     </tr>
        </tr>
         <tr>
-        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Common Programming Mistakes" src="Images/Video3.png"/></td>
+        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Common Programming Mistakes" src="Images/Video5.png"/></td>
         <td width="50%">
             <div align="center">
                      <a href="https://www.youtube.com/user/TheEngiineer/">video (coming soon)</a> |
