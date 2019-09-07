@@ -1,4 +1,4 @@
-%% MATLAB Video #5 - Commong Programming Mistakes
+%% MATLAB Video #5 - Common Programming Mistakes
 % September, 9th 2019
 % Jousef Murad - www.engineered-mind.com
 % MATLAB Version - R2018b
