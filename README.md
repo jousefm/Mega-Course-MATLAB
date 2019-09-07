@@ -75,6 +75,13 @@ All Episodes
                      <a href="https://www.youtube.com/user/TheEngiineer/">code (coming soon)</a><br/><br/></div>
                      <p>In this video we will have a look at the most common programming mistakes and how to avoid them. Duration: X minutes</p></td>
     </tr>
+        <tr>
+        <td width="50%"><div align="center">
+                                          <a href="https://www.youtube.com/watch?v=Ak3fgkmQA-M">video</a> |
+                                          <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Slides/2.%20MATLABvsOctave.pdf">slides</a>
+                                          <p>In this video we will compare MATLAB with its free counterpart GNU Octave and have a look at the differences but also features that both have in common. Duration: 20 minutes</p></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=Ak3fgkmQA-M"><img alt="MATLAB vs. Octave" src="Images/Video4.png"/></td>
+    </tr>
     </table>
     <br/>
 
