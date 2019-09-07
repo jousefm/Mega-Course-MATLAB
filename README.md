@@ -82,7 +82,8 @@ All Episodes
                                           <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon)</a> |
                                           <a href="https://www.youtube.com/user/TheEngiineer/">slides</a> |
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/FifthVideo.m">code </a><br/><br/></div>
-                                          <p>In this video we will compare MATLAB with its free counterpart GNU Octave and have a look at the differences but also features that both have in common. Duration: 20 minutes</p></td>
+                                          <p>This video will discuss special values like Pi as well as the Eulers number e, cover real and complex as well as NaN values. There is also a quick intro to logical operators, trigonometric functions as well as 
+                                          the exponential and logarithmic function. Duration: X minutes</p></td>
         <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="Special Values & Operators" src="Images/Video6.png"/></td>
     </tr>
     </table>
