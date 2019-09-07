@@ -67,14 +67,14 @@ All Episodes
     </tr>
        </tr>
         <tr>
-        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="MATLAB Common Programming Mistakes" src="Images/Video5.png"/></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=qSIf9iHvKZU"><img alt="MATLAB Common Programming Mistakes" src="Images/Video5.png"/></td>
         <td width="50%">
             <div align="center">
-                     <a href="https://www.youtube.com/user/TheEngiineer/">video</a> |
+                     <a href="https://www.youtube.com/watch?v=qSIf9iHvKZU">video</a> |
                      <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon)</a> |
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/average.m">function used</a> |
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/FifthVideo.m">code </a><br/><br/></div>
-                     <p>In this video we will have a look at the most common programming mistakes and how to avoid them. Duration: X minutes</p></td>
+                     <p>In this video we will have a look at the most common programming mistakes and how to avoid them. Duration: 19 minutes</p></td>
     </tr>
         <tr>
         <td width="50%"><div align="center">
