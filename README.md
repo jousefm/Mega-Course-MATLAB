@@ -82,7 +82,7 @@ All Episodes
                                           <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon)</a> |
                                           <a href="https://www.youtube.com/user/TheEngiineer/">slides</a> |
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/FifthVideo.m">code </a><br/><br/></div>
-                                          <p>This video will discuss special values like Pi as well as the Eulers number e, cover real and complex as well as NaN values. There is also a quick intro to logical operators, trigonometric functions as well as 
+                                          <p>This video will discuss special values like Pi as well as the Euler's number e, cover real and complex as well as NaN values. There is also a quick intro to logical operators, trigonometric functions as well as 
                                           the exponential and logarithmic function. Duration: X minutes</p></td>
         <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="Special Values & Operators" src="Images/Video6.png"/></td>
     </tr>
