@@ -6,9 +6,9 @@ MATLAB - From Zero to Hero
 > If you have any specific wishes you can contact me via my social media channels - preferably Instagram where I am most active on. 
 > The pictures act as hyperlinks to the videos or corresponding documents.
 
-[![Twitter](https://img.shields.io/twitter/follow/Jousefm2.svg?label=Follow&style=social)](https://twitter.com/Jousefm2)
+Follow me on [![Twitter](https://img.shields.io/twitter/follow/Jousefm2.svg?label=Follow&style=social)](https://twitter.com/Jousefm2)
 
-🎥 - Early video access on my [Patreon Page](https://www.patreon.com/theengiineer)
+🎥 - **Early video access on my [Patreon Page](https://www.patreon.com/theengiineer)**
 
 <table width="100%">
     <tr>
