@@ -99,7 +99,7 @@ All Episodes
                      <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">code (coming soon) </a><br/><br/></div>
-                     <p>This video will cover the most common data types, where to find all the data types from MATLAB and how to work with formatting. Duration: 11 minutes - **Public for Patreons September, 15th otherwise SEPTEMBER, 22nd 2019**</p></td>
+                     <p>This video will cover the most common data types, where to find all the data types from MATLAB and how to work with formatting. Duration: 11 minutes - Public for Patreons September, 15th otherwise SEPTEMBER, 22nd 2019</p></td>
     </tr>
     </table>
     <br/>
