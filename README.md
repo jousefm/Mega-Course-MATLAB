@@ -78,13 +78,13 @@ All Episodes
     </tr>
         <tr>
         <td width="50%"><div align="center">
-                                          <a href="https://www.youtube.com/user/TheEngiineer/">video</a> |
+                                          <a href="https://www.patreon.com/posts/matlab-special-29802756">video</a> |
                                           <a href="https://www.youtube.com/user/TheEngiineer/">homework (coming soon)</a> |
                                           <a href="https://www.youtube.com/user/TheEngiineer/">slides</a> |
-                                          <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/FifthVideo.m">code </a><br/><br/></div>
+                                          <a href="https://www.patreon.com/posts/matlab-special-29802756">code </a><br/><br/></div>
                                           <p>This video will discuss special values like Pi as well as the Euler's number e, cover real and complex as well as NaN values. There is also a quick intro to logical operators, trigonometric functions as well as 
-                                          the exponential and logarithmic function. Duration: X minutes</p></td>
-        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="Special Values & Operators" src="Images/Video6.png"/></td>
+                                          the exponential and logarithmic function. A small intro to bracketing will also be covered. Duration: 20 minutes</p></td>
+        <td width="50%"><a href="https://www.patreon.com/posts/matlab-special-29802756"><img alt="Special Values & Operators" src="Images/Video6.png"/></td>
     </tr>
     </table>
     <br/>
