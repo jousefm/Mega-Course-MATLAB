@@ -6,6 +6,10 @@ MATLAB - From Zero to Hero
 > If you have any specific wishes you can contact me via my social media channels - preferably Instagram where I am most active on. 
 > The pictures act as hyperlinks to the videos or corresponding documents.
 
+[![Twitter](https://img.shields.io/twitter/follow/Jousefm2.svg?label=Follow&style=social)](https://twitter.com/Jousefm2)
+
+🎥 - Early video access on my [Patreon Page](https://www.patreon.com/theengiineer)
+
 <table width="100%">
     <tr>
         <td width="50%">
@@ -85,6 +89,17 @@ All Episodes
                                           <p>This video will discuss special values like Pi as well as the Euler's number e, cover real and complex as well as NaN values. There is also a quick intro to logical operators, trigonometric functions as well as 
                                           the exponential and logarithmic function. A small intro to bracketing will also be covered. Duration: 20 minutes - GOING LIVE SEPTEMBER, 15th 2019</p></td>
         <td width="50%"><a href="https://www.patreon.com/posts/matlab-special-29802756"><img alt="Special Values & Operators" src="Images/Video6.png"/></td>
+    </tr>
+       </tr>
+       </tr>
+        <tr>
+        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Formatting & Type Conversion" src="Images/Video7.png"/></td>
+        <td width="50%">
+            <div align="center">
+                     <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">code (coming soon) </a><br/><br/></div>
+                     <p>This video will cover the most common data types, where to find all the data types from MATLAB and how to work with formatting. Duration: 11 minutes</p></td>
     </tr>
     </table>
     <br/>
