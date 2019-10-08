@@ -134,6 +134,20 @@ All Episodes
                                           the root of a polynomial, the abs and sign function. Duration: X minutes</p></td>
         <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Other Special Operators" src="Images/Video10.png"/></td>
     </tr>
+    </tr>
+        </tr>
+       </tr>
+       </tr>
+        <tr>
+        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Naming Convention" src="Images/Video11.png"/></td>
+        <td width="50%">
+            <div align="center">
+                     <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
+                     <p>This video will teach you about vectors and introduce you to the vast options you can use inside of MATLAB. Topics include Special Matrices, Indexing, Dimensions, Dot & Cross Product,
+                     Concatenating Vectors, Extraction of Vectors, Subvectors and much more! Duration: X minutes</p></td>
+    </tr>
     </table>
     <br/>
 
