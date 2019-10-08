@@ -110,6 +110,19 @@ All Episodes
                                           using bar plots for visualization. The MATLAB profiler will briefly be introduced to show how hot spots can be identified inside the code. Duration: X minutes</p></td>
         <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="MATLAB Performance" src="Images/Video8.png"/></td>
     </tr>
+        </tr>
+       </tr>
+       </tr>
+        <tr>
+        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Naming Convention" src="Images/Video9.png"/></td>
+        <td width="50%">
+            <div align="center">
+                     <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
+                     <p>This video will deal with naming conventions inside of MATLAB and show you how to meet the common standard when it comes to defining variables, parameters and other relevant
+                     quantities. Duration: X minutes</p></td>
+    </tr>
     </table>
     <br/>
 
