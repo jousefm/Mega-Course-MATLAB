@@ -10,17 +10,24 @@ clc, clear, close all
 
 % Bad Example
 
+% whos, which, exist(var) - ATTENTION!
+% eval, evalc, evalin, feval(fname) - ATTENTION!
+% cd, addpath, rmpath --> result in code recompliation
+
 tic
+%profile on
 x = 0;
 for k = 2:1000000
    x(k) = x(k-1) + 5;
 end
 t(1) = toc;
+%profile viewer
+
 
 % Better Example
 
 tic
-x = zeros(1, 1000000);
+x = zeros(1, 1000000); % Pre-Allocation
 for k = 2:1000000
    x(k) = x(k-1) + 5;
 end
