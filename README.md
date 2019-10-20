@@ -191,4 +191,4 @@ All Episodes
 Social Media
 ================
 
-Feel free to follow me on **[Twitter](https://twitter.com/Jousefm2)**,  **[Instagram](https://www.instagram.com/jousefmrd/)** & **[GitHub](https://github.com/jousefm)**!
+[![Twitter](https://static.wixstatic.com/media/59687ffffc2042f885062ce2b0744381.png/v1/fill/w_20,h_20,al_c,q_80,usm_0.66_1.00_0.01/59687ffffc2042f885062ce2b0744381.webp)](https://twitter.com/Jousefm2) [![YouTube](https://static.wixstatic.com/media/44eb1e29ffa34198aee01e8d4f305903.png/v1/fill/w_20,h_20,al_c,q_80,usm_0.66_1.00_0.01/youtube.webp)](https://www.youtube.com/user/TheEngiineer/) [![LinkedIn](https://static.wixstatic.com/media/48a2a42b19814efaa824450f23e8a253.png/v1/fill/w_20,h_20,al_c,q_80,usm_0.66_1.00_0.01/48a2a42b19814efaa824450f23e8a253.webp)](https://www.linkedin.com/in/jousefmurad/)
