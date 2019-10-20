@@ -103,7 +103,7 @@ All Episodes
         </tr>
         <tr>
         <td width="50%"><div align="center">
-                                          <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                                          <a href="https://youtu.be/Y_jmKE5IhSY">video</a> |
                                           <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Slides/8.%20MATLABPerformance.pdf">slides</a> |
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/EighthVideo.m">code </a><br/><br/></div>
