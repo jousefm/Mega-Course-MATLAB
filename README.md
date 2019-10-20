@@ -108,7 +108,7 @@ All Episodes
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Slides/8.%20MATLABPerformance.pdf">slides</a> |
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/EighthVideo.m">code </a><br/><br/></div>
                                           <p>This video will discuss what the pros and cons of MATLAB are and how you can measure the performance of your code. We will compare different code by using the tic/toc command and
-                                          using bar plots for visualization. The MATLAB profiler will briefly be introduced to show how hot spots can be identified inside the code. Duration: X minutes</p></td>
+                                          using bar plots for visualization. The MATLAB profiler will briefly be introduced to show how hot spots can be identified inside the code. Duration: 10 minutes</p></td>
         <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="MATLAB Performance" src="Images/Video8.png"/></td>
     </tr>
         </tr>
