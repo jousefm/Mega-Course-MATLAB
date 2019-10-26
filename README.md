@@ -120,7 +120,7 @@ All Episodes
             <div align="center">
                      <a href="https://youtu.be/o-aPiE7GDlg">video </a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                     <a href="https://www.patreon.com/theengiineer">code </a><br/><br/></div>
+                     <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/NinthVideo.m">code </a><br/><br/></div>
                      <p>This video will briefly discuss the abs and sign functions and how to quickly determine the root of a polynomials, determine the coefficients and concatenate functions. Duration: X minutes</p></td>
     </tr>
        </tr>
