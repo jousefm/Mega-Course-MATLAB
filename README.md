@@ -121,17 +121,17 @@ All Episodes
                      <a href="https://youtu.be/o-aPiE7GDlg">video </a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/NinthVideo.m">code </a><br/><br/></div>
-                     <p>This video will briefly discuss the abs and sign functions and how to quickly determine the root of a polynomials, determine the coefficients and concatenate functions. Duration: X minutes</p></td>
+                     <p>This video will briefly discuss the abs and sign functions and how to quickly determine the root of a polynomials, determine the coefficients and concatenate functions. Duration: 7 minutes</p></td>
     </tr>
        </tr>
         </tr>
         <tr>
         <td width="50%"><div align="center">
-                                          <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                                          <a href="https://www.youtube.com/watch?v=c99o2-LzUHs">video </a> |
                                           <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                                          <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
+                                          <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/TenthVideo.m">code </a><br/><br/></div>
                                           <p>This video will deal with naming conventions inside of MATLAB and show you how to meet the common standard when it comes to defining variables, parameters and other relevant
-                                                 quantities. Duration: X minutes</p></td>
+                                                 quantities. Duration: 6 minutes</p></td>
         <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Naming Convention" src="Images/Video10.png"/></td>
     </tr>
     </tr>
