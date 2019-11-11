@@ -170,7 +170,7 @@ All Episodes
                      <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                     <p>In this video we will learn how you can load data into MATLAB and export it into other formats - some additional tips will be given! Duration: X minutes</p></td>
+                     <p>In this video we will learn how you canfind the indices of defined values in a vector! Duration: X minutes</p></td>
     </tr>
         </tr>
         </tr>
@@ -181,7 +181,7 @@ All Episodes
                                           <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
                                           <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                                           <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                                          <p>This video will give you a brief overview of what type of plots exist inside of MATLAB and how you can create your own fancy plots! Duration: X minutes</p></td>
+                                          <p>This video will give you a brief overview on how to extract vectors and create so called subvectors! Duration: X minutes</p></td>
         <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Plot Overview" src="Images/Video14.png"/></td>
     </tr>
         </tr>
@@ -196,7 +196,7 @@ All Episodes
                      <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                     <p>In this video we will learn how you can load data into MATLAB and export it into other formats - some additional tips will be given! Duration: X minutes</p></td>
+                     <p>This video will show you how to use vector logic! Duration: X minutes</p></td>
     </tr>
         </tr>
         </tr>
@@ -207,7 +207,7 @@ All Episodes
                                           <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
                                           <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                                           <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                                          <p>This video will give you a brief overview of what type of plots exist inside of MATLAB and how you can create your own fancy plots! Duration: X minutes</p></td>
+                                          <p>This brief video will show you how to sort vectors in a specific order! Duration: X minutes</p></td>
         <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Plot Overview" src="Images/Video16.png"/></td>
     </tr>
     </table>
