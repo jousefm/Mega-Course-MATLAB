@@ -139,12 +139,12 @@ All Episodes
        </tr>
        </tr>
         <tr>
-        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Vectors" src="Images/Video11.png"/></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=_GNf9GIIIr4"><img alt="Vectors" src="Images/Video11.png"/></td>
         <td width="50%">
             <div align="center">
-                     <a href="https://www.youtube.com/watch?v=_GNf9GIIIr4">video (coming soon)</a> |
+                     <a href="https://www.youtube.com/watch?v=_GNf9GIIIr4">video </a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                     <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/EleventhVideo.m">code (coming soon)</a><br/><br/></div>
+                     <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/EleventhVideo.m">code </a><br/><br/></div>
                      <p>This video will teach you about vectors and introduce you to the vast options you can use inside of MATLAB. Subvideos include Special Vectors, Indexing, Dimensions, Dot & Cross Product,
                      Concatenating Vectors, Extraction of Vectors, Subvectors and much more! Duration: 8 minutes</p></td>
     </tr>
