@@ -156,9 +156,8 @@ All Episodes
                                           <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
                                           <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                                           <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                                          <p>This video will teach you about matrices and introduce you to the vast options you can use inside of MATLAB. Topics include Special Matrices, Indexing, Dimensions, Dot & Cross Product,
-                                                Concatenating Matrices, Extraction of Matrices, Submatrices and much more! Duration: X minutes</p></td>
-        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Matrices" src="Images/Video12.png"/></td>
+                                          <p>This video will teach you about arithmetic operations on vectors! Duration: X minutes</p></td>
+        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="VectorsArithmetic" src="Images/Video12.png"/></td>
     </tr>
         </tr>
         </tr>
