@@ -185,6 +185,32 @@ All Episodes
                                           <p>This video will give you a brief overview of what type of plots exist inside of MATLAB and how you can create your own fancy plots! Duration: X minutes</p></td>
         <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Plot Overview" src="Images/Video14.png"/></td>
     </tr>
+        </tr>
+        </tr>
+        </tr>
+       </tr>
+       </tr>
+        <tr>
+        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Save and Load Data" src="Images/Video13.png"/></td>
+        <td width="50%">
+            <div align="center">
+                     <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
+                     <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
+                     <p>In this video we will learn how you can load data into MATLAB and export it into other formats - some additional tips will be given! Duration: X minutes</p></td>
+    </tr>
+        </tr>
+        </tr>
+       </tr>
+        </tr>
+        <tr>
+        <td width="50%"><div align="center">
+                                          <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                                          <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
+                                          <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
+                                          <p>This video will give you a brief overview of what type of plots exist inside of MATLAB and how you can create your own fancy plots! Duration: X minutes</p></td>
+        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Plot Overview" src="Images/Video14.png"/></td>
+    </tr>
     </table>
     <br/>
 
