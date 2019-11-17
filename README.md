@@ -153,11 +153,11 @@ All Episodes
         </tr>
         <tr>
         <td width="50%"><div align="center">
-                                          <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                                          <a href="https://www.youtube.com/watch?reload=9&v=PU8GFn6PZ3g">video </a> |
                                           <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                                          <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                                          <p>This video will teach you about arithmetic operations on vectors! Duration: X minutes</p></td>
-        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="VectorsArithmetic" src="Images/Video12.png"/></td>
+                                          <a href="https://www.patreon.com/theengiineer">code </a><br/><br/></div>
+                                          <p>This video will teach you about arithmetic operations on vectors! Duration: 8 minutes</p></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?reload=9&v=PU8GFn6PZ3g"><img alt="VectorsArithmetic" src="Images/Video12.png"/></td>
     </tr>
         </tr>
         </tr>
@@ -171,45 +171,6 @@ All Episodes
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
                      <p>In this video we will learn how you canfind the indices of defined values in a vector! Duration: X minutes</p></td>
-    </tr>
-        </tr>
-        </tr>
-       </tr>
-        </tr>
-        <tr>
-        <td width="50%"><div align="center">
-                                          <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
-                                          <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                                          <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                                          <p>This video will give you a brief overview on how to extract vectors and create so called subvectors! Duration: X minutes</p></td>
-        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Plot Overview" src="Images/Video14.png"/></td>
-    </tr>
-        </tr>
-        </tr>
-        </tr>
-       </tr>
-       </tr>
-        <tr>
-        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Save and Load Data" src="Images/Video15.png"/></td>
-        <td width="50%">
-            <div align="center">
-                     <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
-                     <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                     <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                     <p>This video will show you how to use vector logic! Duration: X minutes</p></td>
-    </tr>
-        </tr>
-        </tr>
-       </tr>
-        </tr>
-        <tr>
-        <td width="50%"><div align="center">
-                                          <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
-                                          <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                                          <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                                          <p>This brief video will show you how to sort vectors in a specific order! Duration: X minutes</p></td>
-        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Plot Overview" src="Images/Video16.png"/></td>
-    </tr>
     </table>
     <br/>
 
