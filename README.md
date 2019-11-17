@@ -156,8 +156,8 @@ All Episodes
                                           <a href="https://www.youtube.com/watch?reload=9&v=PU8GFn6PZ3g">video </a> |
                                           <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                                           <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/TwelfthVideo.m">code </a><br/><br/></div>
-                                          <p>This video will teach you about arithmetic operations on vectors, how to visualize them and teach you a nice mnemonic! +
-                                          Duration: 8 minutes</p></td>
+                                          <p>This video will teach you about arithmetic operations on vectors, how to visualize them and teach you a nice mnemonic!
+                                            Duration: 8 minutes</p></td>
         <td width="50%"><a href="https://www.youtube.com/watch?reload=9&v=PU8GFn6PZ3g"><img alt="VectorsArithmetic" src="Images/Video12.png"/></td>
     </tr>
         </tr>
