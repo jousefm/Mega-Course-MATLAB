@@ -171,7 +171,7 @@ All Episodes
                      <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
-                     <p>In this video we will learn how you canfind the indices of defined values in a vector! Duration: X minutes</p></td>
+                     <p>In this video we will learn how you can create subvectors and use logic to find the indices of defined values in a vector! Duration: 7 minutes</p></td>
     </table>
     <br/>
 
