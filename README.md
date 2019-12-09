@@ -165,12 +165,12 @@ All Episodes
        </tr>
        </tr>
         <tr>
-        <td width="50%"><a href="https://www.patreon.com/theengiineer"><img alt="Save and Load Data" src="Images/Video13.png"/></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=cB1YmkXpEUQ"><img alt="Save and Load Data" src="Images/Video13.png"/></td>
         <td width="50%">
             <div align="center">
-                     <a href="https://www.patreon.com/theengiineer">video (coming soon)</a> |
+                     <a href="https://www.youtube.com/watch?v=cB1YmkXpEUQ">video (coming soon)</a> |
                      <a href="https://www.patreon.com/theengiineer">homework (coming soon)</a> |
-                     <a href="https://www.patreon.com/theengiineer">code (coming soon)</a><br/><br/></div>
+                     <a href=https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/ThirteenthVideo.m">code</a><br/><br/></div>
                      <p>In this video we will learn how you can create subvectors and use logic to find the indices of defined values in a vector! Duration: 7 minutes</p></td>
     </table>
     <br/>
