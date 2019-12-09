@@ -1,58 +1,70 @@
-% MATLAB Video #13 - Vector Indexing & Logics
-% November, 15th 2019
+% MATLAB Video #13 - Vector Indexing
+% December, 6th 2019
 % Jousef Murad - www.engineered-mind.com
 % MATLAB Version - R2019b
 
 clc, clear, close all
 
-%% Section 1 - Access Element for Row Vectors
+%% Section 1 - Create a vector
 
-A = [1 5 8 2 5 33 2 9];
+firstVec = [1 2 3 4 5 6];
 
-extr1 = A(3);
+secondVec = [1 2 3];
 
 %% Zeroth and out of bound elements cannot be accessed
 
-% extr2 = A(0);
-% extr3 = A(9);
+% extr2 = firstVec(0);
+% extr3 = firstVec(7);
 
+%% Section 2 - Extracting a Subvector
 
-%% Section 2 - Access Element for Column Vectors
+subVec1 = secondVec(2:end);
 
-C = A';
+subVec2 = [firstVec(1) firstVec(2) firstVec(3)]; %inefficient
 
-extr2 = C(3);
+subVec21 = firstVec(1:3);
 
-%% Section 3 - Subvectoring
+subVec3 = [subVec2(1) firstVec(2:5)];
 
-% The inefficient way
-subVec1 = [A(1) A(2) A(3)];
+%% Section 3 - Working with the Subvector
 
-% The more efficient way
-subVec2 = A(1:3);
+subVec4 = subVec2 .* 5;
 
-%% Section 4 - Indexing to the end
+%% Section 4 - Convert a Matrix into a Vector
 
-endVec = A(4:end);
+A = rand(3);
 
-%% Section 5 - Adapt Vector Programmatically 
+B = rand(3);
 
-changeVec(1:4) = A(1:4) .* 10;
+C = B(:);
 
-%% Section 6 - Indexing Vector Dimension Problem
+%% Section 5 - Indexing to the End
 
-% changeVec2 = changeVec + A % Matrix Dimensions are crucial!
+D = A(1:end); % 1 to the end kind of useless here but you get the point
 
-%% Section 7 - Logical Indexing
+%% Section 6 - Adapt Vector Programmatically 
 
-B = [1 5 8 2 5 33 2 9];
+firstVec
 
-idx = (B < 6);
+firstVec(1:4) = A(1:4) .* 10
 
-B(idx); % shows all entries that fulfill the idx-condition
+%% Section 7 - Indexing with Logic
 
-idx2 = (B < 6) & (mod(B,2) == 0);
+C = rand(3);
+
+idx = A < B % shows all entries that fulfill the idx-condition
+
+printMat = A(idx)
+
+%% Bonus Section
+
+testVec = [10, 7, 20, 40, 50, 70, 99]; % change 7 with an 8
+
+idx2 = (testVec < 25) & (mod(testVec,2) == 0)
 
 % mod returns the remainder after division
 % 8 not included as it not fulfills the first condition
 
+
+% For matrices this can get a bit more complicated but is not that hard. 
+% More on matrices in a future video
